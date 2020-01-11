@@ -63,6 +63,15 @@ header {
   width: 70vw;
 }
 
+.product-image {
+  position: relative;
+  left: 40%;
+}
+
+.font-16 {
+  font-size: 16px;
+}
+
 @media (max-width: 900px) {
 
   .info h5, .info p {
@@ -80,7 +89,7 @@ header {
     width: 80vw;
   }
 
-  .section-3 {
+  .section-3, .section-5 {
     display: flex;
     flex-direction: column;
     justify-content: center;
