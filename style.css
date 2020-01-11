@@ -57,9 +57,13 @@ header {
   width: 100%;
 }
 
+.image-3 {
+  position: relative;
+  left: 15%;
+  width: 70vw;
+}
+
 @media (max-width: 900px) {
-  .section-3 {
-  }
 
   .info h5, .info p {
     text-align: center;
