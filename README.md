@@ -20,7 +20,7 @@ The project were made to the following widths:
 
 ## Live Demo
 
-[Live Demo Link](https://vieiramanda11.github.io/Clipboard-Landing-Page/)
+[Live Demo Link](https://raw.githack.com/vieiramanda11/Clipboard-Landing-Page/master/index.html)
 
 
 ## Author
