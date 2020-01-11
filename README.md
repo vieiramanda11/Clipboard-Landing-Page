@@ -5,9 +5,9 @@
 The project were made to the following widths:
 
   - Mobile: 375px
-  ![screenshot](../design/mockup-phone.png)
+  ![screenshot](./design/mockup-phone.png)
   - Desktop: 1440px
-  ![screenshot](../design/desktop-phone.png)
+  ![screenshot](./design/desktop-mockup.png)
 
 ## Built With
 
@@ -17,7 +17,7 @@ The project were made to the following widths:
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://vieiramanda11.github.io/Clipboard-Landing-Page/)
 
 
 ## Author
