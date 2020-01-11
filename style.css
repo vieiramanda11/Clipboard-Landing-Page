@@ -11,15 +11,6 @@
   color: hsl(201, 11%, 66%);
 }
 
-/* .strong-cyan {
-  color:hsl(171, 66%, 44%);
-}
-
-.light-blue {
-  color: hsl(233, 100%, 69%);
-} */
-
-
 header {
   background-image: url('images/bg-header-desktop.png');
   background-repeat: no-repeat;
@@ -76,6 +67,33 @@ header {
   height: 6vh;
 }
 
+footer {
+  background-color: #F7F9F8;
+}
+
+footer .image-logo {
+  width: 10vw;
+  height: 10vh;
+}
+
+.list-footer {
+  list-style-type: none;
+  cursor: pointer;
+}
+
+.social-icons i {
+  cursor: pointer;
+  font-size: 25px;
+}
+
+.list-footer li:hover {
+  color: hsl(171, 66%, 44%);
+} 
+
+.social-icons i:hover {
+  color: hsl(171, 66%, 44%);
+}
+
 
 @media (max-width: 900px) {
 
@@ -94,7 +112,7 @@ header {
     width: 80vw;
   }
 
-  .section-3, .section-5, .section-6 {
+  .section-3, .section-5, .section-6, .footer, .footer-list {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -105,8 +123,21 @@ header {
     height: 15vh;
     margin: 50px auto;
   }
-}
 
+  .image-logo {
+    margin: auto;
+  }
+
+  .footer-list {
+    margin: 50px 0;
+    padding: 0 0 0 50px;
+    text-align: center;
+  }
+  
+  .social-icons {
+    padding: 0 0 0 10px;
+  }
+}
 
 .attribution { 
   font-size: 11px; text-align: center; 
