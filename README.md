@@ -4,9 +4,12 @@
 
 The project were made to the following widths:
 
-  - Mobile: 375px
+  ## Mobile: 375px
   ![screenshot](./design/mockup-phone.png)
-  - Desktop: 1440px
+  
+  ## Desktop: 1440px
+  
+  
   ![screenshot](./design/desktop-mockup.png)
 
 ## Built With
